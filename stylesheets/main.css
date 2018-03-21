@@ -53,7 +53,7 @@ p{
 .intro{
 	height:600px;
 	margin-top:50px;
-	background:url("img/backgrounds/intro-bg.png") no-repeat center;
+	background:url("../img/backgrounds/intro-bg.png") no-repeat center;
 	background-size: contain;
 }
 .intro-head{
@@ -113,7 +113,7 @@ p{
 /*****section about******/
 
 .about{
-	background:url("img/backgrounds/about-bg.jpg") no-repeat center;
+	background:url("../img/backgrounds/about-bg.jpg") no-repeat center;
 	background-size: cover;
 	height:auto;
 	min-height: 750px;
@@ -144,7 +144,7 @@ p{
 
 /*****section wireframes******/
 .wireframe{
-background:url("img/backgrounds/wireframe-title-bg.jpg") no-repeat center;
+background:url("../img/backgrounds/wireframe-title-bg.jpg") no-repeat center;
 background-size: cover;
 height:auto;
 }
@@ -170,7 +170,7 @@ height:auto;
 
 .design{
 	height:500px;
-	background:url("img/backgrounds/ui-design-bg.jpg") no-repeat center;
+	background:url("../img/backgrounds/ui-design-bg.jpg") no-repeat center;
 	background-size: cover;
 }
 .design img{
@@ -187,7 +187,7 @@ height:auto;
 }
 
 .design-img{
-	background:url("img/backgrounds/footer-bg.jpg") no-repeat bottom;
+	background:url("../img/backgrounds/footer-bg.jpg") no-repeat bottom;
 	background-size: 100%;
 	margin-top:200px;
 }
